@@ -1,5 +1,5 @@
 {Información sobre la rama de "Desarrollo"}
-Responsable:
+Responsable: Jordy
 Objetivos:
 .
 .
