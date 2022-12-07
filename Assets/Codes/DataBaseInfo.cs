@@ -21,8 +21,8 @@ public class DataBaseInfo : MonoBehaviour
 
     public void infoBaseData()
     {
-        //string[] datosExtraidos;
-        //for i in datosExtraidos
+        string[] datosExtraidos;
+
         var valor0 = text0.GetComponent<Text>();
         valor0.text = "01 - Pikachu";
 
